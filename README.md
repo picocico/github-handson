@@ -6,9 +6,9 @@
 ### 以下、記載方法を学ぶため架空の内容で記載していきます。<br>
 
 ## **インストール**<br>
-```Git clone https://github.com/picocico/github-handson.git<br>
+Git clone https://github.com/picocico/github-handson.git<br>
 cd sample-project-20240415<br>
-./gradlew build<br>```
+./gradlew build<br>
 
 ## **使用方法**　
 `./gradlew run`
@@ -41,8 +41,8 @@ picocico
 
 ### 以下、Markdown形式を学ぶため、様々なことを試しています。
 
-```
-*アイコンの解説*<br>
+
+```*アイコンの解説*<br>
 |------|-------|<br>
 |　ぴこ |　ちこ　|<br>
 |------|-------|<br>
@@ -54,6 +54,6 @@ picocico
 |------|-------|<br>
 
 !IMG_1627.PNG<br>
-!IMG_0644.PNG``` ```
+!IMG_0644.PNG```
 
 ### github-handson
