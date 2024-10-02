@@ -8,7 +8,7 @@
 ## **インストール**<br>
 ```Git clone https://github.com/picocico/github-handson.git<br>
 cd sample-project-20240415<br>
-./gradlew build<br>
+./gradlew build<br>```
 
 ## **使用方法**　
 `./gradlew run`
