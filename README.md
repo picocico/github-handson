@@ -1,28 +1,24 @@
-# **サンプルREADME**
+# *サンプルREADME*
 
-## **概要** <br>
+## *概要* <br>
 このプロジェクトはgithubの使い方に慣れるために作られたものです。
 
 ### 以下、記載方法を学ぶため架空の内容で記載していきます。<br>
 
-## **インストール**<br>
+## *インストール*<br>
 `git clone https://github.com/picocico/github-handson.git`<br>
 `cd sample-project-20240415`<br>
 `./gradlew build`<br>
 
-## **使用方法**　
+## *使用方法*　
 `./gradlew run`
 
-## **貢献方法**
+## *貢献方法*
 1. リポジトリをフォークします。
-2. クローンします:
-`git clone https://github.com/picocico/github-handson.git `<br>
-3. 新しいブランチを作成します:
-`git checkout -b feature/ `<br>
-4.変更をコミットします:
-`git commit -m "Add new feature" `<br>
-5.プッシュします:
-`git push origin feature/your-feature`<br>
+2. クローンします:`git clone https://github.com/picocico/github-handson.git`<br>
+3. 新しいブランチを作成します:`git checkout -b feature/`<br>
+4.変更をコミットします:`git commit -m "Add new feature"`<br>
+5.プッシュします:`git push origin feature/your-feature`<br>
 6.プルリクエストを作成します。<br>
 
 ## ライセンス
@@ -36,12 +32,10 @@ picocico
 -　コミットメッセージは日本語で記述してください。
 
 ## テスト
-テストを実行するには、以下のコマンドを使用します：
-`./gradlew test`
+テストを実行するには、以下のコマンドを使用します：`./gradlew test`
 
 #### 以下、Markdown形式を学ぶため、様々なことを試しています。
-
-``` 
+ 
 *アイコンの解説*<br>
 |------|-------|<br>
 |　ぴこ |　ちこ　|<br>
@@ -55,6 +49,5 @@ picocico
 
 !IMG_1627.PNG<br>
 !IMG_0644.PNG
- ```
 
 ##### github-handson
