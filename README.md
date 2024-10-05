@@ -48,10 +48,9 @@ picocico
 |------|-------|<br>
 
 ![ぴこちこ白シナモン]<br>
-![IMG_1627]
-(https://github.com/user-attachments/assets/c630d4af-7f8b-4245-96e3-758cfd8f2ca8) <br>
+<img src="https://github.com/user-attachments/assets/c630d4af-7f8b-4245-96e3-758cfd8f2ca8" width="300"> <br>
 ![ぴこちこ桜シルバー]<br>
-(https://github.com/user-attachments/assets/e0f1d6f9-4cd6-41ff-906c-a07db106a138)<br>
+<img src="https://github.com/user-attachments/assets/e0f1d6f9-4cd6-41ff-906c-a07db106a138" width="300"<br>
 
 
 ##### github-handson
