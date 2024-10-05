@@ -38,21 +38,19 @@ picocico
  
 *アイコンの解説*<br>
 |------|-------|<br>
-| ぴこ　|  ちこ　|<br>
+| ぴこ　|  ちこ　 |<br>
 |------|-------|<br>
-|　文鳥 |　文鳥　|<br>
+|　文鳥 |　文鳥　 |<br>
 |------|-------|<br>
 |　白　 |シナモン|<br>
 |------|-------|<br>
 |　桜　 |シルバー|<br>
 |------|-------|<br>
 
-!ぴこちこ白シナモン<br>
-![IMG_1627]
-(https://github.com/user-attachments/assets/90c8f7e2-d927-4821-9fd7-7bf6a27905e7) 
-!ぴこちこ桜シルバー<br>
-![IMG_0644]
-(https://github.com/user-attachments/assets/73329c06-77a4-4433-9935-a7edf22a23cb)
+!ぴこちこ白シナモン
+(https://github.com/user-attachments/assets/90c8f7e2-d927-4821-9fd7-7bf6a27905e7) <br>
+!ぴこちこ桜シルバー
+(https://github.com/user-attachments/assets/73329c06-77a4-4433-9935-a7edf22a23cb)<br>
 
 
 
