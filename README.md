@@ -17,9 +17,9 @@
 1. リポジトリをフォークします。
 2. クローンします:`git clone https://github.com/picocico/github-handson.git`<br>
 3. 新しいブランチを作成します:`git checkout -b feature/`<br>
-4.変更をコミットします:`git commit -m "Add new feature"`<br>
-5.プッシュします:`git push origin feature/your-feature`<br>
-6.プルリクエストを作成します。<br>
+4. 変更をコミットします:`git commit -m "Add new feature"`<br>
+5. プッシュします:`git push origin feature/your-feature`<br>
+6. プルリクエストを作成します。<br>
 
 ## ライセンス
 MTIライセンスの下で公開されています。
@@ -38,7 +38,7 @@ picocico
  
 *アイコンの解説*<br>
 |------|-------|<br>
-|　ぴこ |　ちこ　|<br>
+| ぴこ　|  ちこ　|<br>
 |------|-------|<br>
 |　文鳥 |　文鳥　|<br>
 |------|-------|<br>
@@ -47,7 +47,13 @@ picocico
 |　桜　 |シルバー|<br>
 |------|-------|<br>
 
-!IMG_1627.PNG<br>
-!IMG_0644.PNG
+!ぴこちこ白シナモン<br>
+![IMG_1627]
+(https://github.com/user-attachments/assets/90c8f7e2-d927-4821-9fd7-7bf6a27905e7) <br>
+!ぴこちこ桜シルバー<br>
+![IMG_0644]
+(https://github.com/user-attachments/assets/73329c06-77a4-4433-9935-a7edf22a23cb)<br>
+
+
 
 ##### github-handson
