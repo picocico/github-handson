@@ -47,11 +47,11 @@ picocico
 |　桜　 |シルバー|<br>
 |------|-------|<br>
 
-!ぴこちこ白シナモン
-(https://github.com/user-attachments/assets/90c8f7e2-d927-4821-9fd7-7bf6a27905e7) <br>
-!ぴこちこ桜シルバー
-(https://github.com/user-attachments/assets/73329c06-77a4-4433-9935-a7edf22a23cb)<br>
-
+![ぴこちこ白シナモン]<br>
+![IMG_1627]
+(https://github.com/user-attachments/assets/c630d4af-7f8b-4245-96e3-758cfd8f2ca8) <br>
+![ぴこちこ桜シルバー]<br>
+(https://github.com/user-attachments/assets/e0f1d6f9-4cd6-41ff-906c-a07db106a138)<br>
 
 
 ##### github-handson
