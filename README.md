@@ -34,7 +34,7 @@ picocico
 ## テスト
 テストを実行するには、以下のコマンドを使用します：`./gradlew test`
 
-#### 以下、Markdown形式を学ぶため、様々なことを試しています。
+### 以下、Markdown形式を学ぶため、様々なことを試しています。
  
 *アイコンの解説*<br>
 |--------|-------|<br>
@@ -47,10 +47,9 @@ picocico
 |　桜　  |シルバー |<br>
 |--------|-------|<br>
 
-![ぴこちこ白シナモン]<br>
-<img src="https://github.com/user-attachments/assets/c630d4af-7f8b-4245-96e3-758cfd8f2ca8" width="300"> <br>
-![ぴこちこ桜シルバー]<br>
-<img src="https://github.com/user-attachments/assets/e0f1d6f9-4cd6-41ff-906c-a07db106a138" width="300"> <br>
+<img src="https://github.com/user-attachments/assets/c630d4af-7f8b-4245-96e3-758cfd8f2ca8" alt="ぴこちこ白シナモン" width="300" height="300" /> <br>
+
+<img src="https://github.com/user-attachments/assets/e0f1d6f9-4cd6-41ff-906c-a07db106a138" alt="ぴこちこ桜シルバー" width="300" height="300" /> <br>
 
 
 ##### github-handson
